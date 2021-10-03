@@ -2,7 +2,7 @@ Physics:
   Module 1:
     Chap1 osci & waves:
       Theory:
-#         definition of shm, chars, derivation using Hooke's law
+        definition of shm, chars, derivation using Hooke's law
         # theory of forced vibrations, derivation of steady state amplitude & phase angle
 #         force constant, force constant derivation for spring in series and parallel, period of oscillation
       Numericals:
